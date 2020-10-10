@@ -1,3 +1,9 @@
+create folder 
+git init 
+git remote add origin “https://”
+git push -u origin master
+
+
 git add . 
 git commit -m "message"
 git push 
